@@ -1,0 +1,9 @@
+{
+  "name": "@easydown/client",
+  "version": "0.1.0",
+  "license": "ISC",
+  "exports": "./mod.ts",
+  "publish": {
+    "include": ["mod.ts", "README.md", "LICENSE", "jsr.json"]
+  }
+}
